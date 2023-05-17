@@ -24,4 +24,4 @@ Peça para o aluno informar as notas que obteve nos três trimestres. Calcule a 
 - Se a média for maior ou igual a 6: Aprovado
 
 ### **<u>[Problema 7: Menor número](07_menorNumero.html)</u>**
-Peça para o usuário informar três números e identifique qual é o menor número e apresente-o ao final do programa.
+Peça para o usuário informar três números e identifique qual é o menor número e apresente-o ao final do programa.   
